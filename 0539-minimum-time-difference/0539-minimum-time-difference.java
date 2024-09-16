@@ -5,53 +5,37 @@ import java.util.List;
 
 class Solution {
     public int findMinDifference(List<String> timePoints) {
+        if(timePoints.size() > 1440){
+            return 0;
+        }
+        boolean[] seen = new boolean[1440];
+        for(String time : timePoints){
+            int min = convert(time);
+            System.out.println(min);
+            if(seen[min]){
+                return 0;
+            }
+            seen[min] = true;
+        }
+        int prev = Integer.MAX_VALUE;
+        int first = Integer.MAX_VALUE;
         int diff = Integer.MAX_VALUE;
-        Collections.sort(timePoints, new MyComparator());
-        //System.out.println(timePoints.get(0));
-        for (int idx = 1; idx < timePoints.size(); idx++) {
-            //System.out.println(timePoints.get(idx));
-            String t1 = timePoints.get(idx-1);
-            String t2 = timePoints.get(idx);
-            String[] one = t1.split(":");
-            String[] second = t2.split(":");
-
-            int h1 = Integer.parseInt(one[0]);
-            int m1 = Integer.parseInt(one[1]);
-            int h2 = Integer.parseInt(second[0]);
-            int m2 = Integer.parseInt(second[1]);
-            if(h1 == 0){
-                int th = 24;
-                int d = Math.min(diff, ((th*60+m1) - (h2*60+m2)));
-                if(d > 0){
-                    diff = Math.min(diff, d);
+        for(int i=0; i<1440; i++){
+            if(seen[i]){
+                if(first == Integer.MAX_VALUE){
+                    first = i;
+                }else{
+                    diff = Math.min(diff, i-prev);
                 }
-            }
-            diff = Math.min(diff, ((h2*60+m2) - (h1*60+m1)));
-        }
-        if(timePoints.size() > 2) {
-            String t1 = timePoints.get(0);
-            String t2 = timePoints.get(timePoints.size() - 1);
-            String[] one = t1.split(":");
-            String[] second = t2.split(":");
-
-            int h1 = Integer.parseInt(one[0]);
-            int m1 = Integer.parseInt(one[1]);
-            int h2 = Integer.parseInt(second[0]);
-            int m2 = Integer.parseInt(second[1]);
-            h1 += 24;
-            int d = Math.min(diff, ((h1 * 60 + m1) - (h2 * 60 + m2)));
-            if(d > 0){
-                diff = Math.min(d, diff);
+                prev = i;
             }
         }
+        diff = Math.min(diff, 1440-prev + first);
         return diff;
     }
-}
 
-class MyComparator implements Comparator<String> {
-
-    @Override
-    public int compare(String o1, String o2) {
-        return o1.compareTo(o2);
+    private int convert(String time) {
+        String[] t = time.split(":");
+        return Integer.parseInt(t[0])*60 + Integer.parseInt(t[1]);
     }
 }
