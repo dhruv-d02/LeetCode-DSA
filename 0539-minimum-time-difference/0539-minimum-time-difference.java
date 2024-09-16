@@ -11,7 +11,7 @@ class Solution {
         boolean[] seen = new boolean[1440];
         for(String time : timePoints){
             int min = convert(time);
-            System.out.println(min);
+            //System.out.println(min);
             if(seen[min]){
                 return 0;
             }
