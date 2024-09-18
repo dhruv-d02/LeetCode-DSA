@@ -1,33 +1,21 @@
-import java.util.*;
-import java.util.stream.Collectors;
-
 class Solution {
     public String largestNumber(int[] nums) {
-        List<Integer> numList = Arrays.stream(nums).boxed().collect(Collectors.toList());
-        Collections.sort(numList, new MyComparator());
-        String ret = "";
-        for (int i = 0; i < numList.size(); i++) {
-            if(ret.equals("0")){
-                ret = "";
-            }
-            ret += numList.get(i);
+        String[] arr = new String[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            arr[i] = String.valueOf(nums[i]);
         }
-        return ret;
-    }
-}
-class MyComparator implements Comparator<Integer>{
+        Arrays.sort(arr, new Comparator<String>() {
+            public int compare(String a, String b) {
+                return (b + a).compareTo(a + b);
+            }
+        });
+        StringBuilder sb = new StringBuilder();
+        for (String s : arr) {
+            sb.append(s);
+        }
+        while (sb.charAt(0) == '0' && sb.length() > 1)
+            sb.deleteCharAt(0);
+        return sb.toString();
 
-    @Override
-    public int compare(Integer o1, Integer o2) {
-        String a = o1 + ""+o2;
-        String b = o2 + ""+o1;
-        for (int i = 0; i < a.length(); i++) {
-            if(Integer.parseInt(a.charAt(i)+"") > Integer.parseInt(b.charAt(i)+"")){
-                return -1;
-            }else if(Integer.parseInt(a.charAt(i)+"") < Integer.parseInt(b.charAt(i)+"")){
-                return 1;
-            }
-        }
-        return 0;
     }
 }
