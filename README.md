@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2554-minimum-total-distance-traveled](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2755-extra-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
