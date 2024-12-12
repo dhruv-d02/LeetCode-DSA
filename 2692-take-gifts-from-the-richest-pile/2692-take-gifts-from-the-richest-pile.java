@@ -1,16 +1,19 @@
 class Solution {
     public long pickGifts(int[] gifts, int k) {
-        Arrays.sort(gifts);
-        int i = k;
-        while (i>0){
-            gifts[gifts.length-1] = (int) Math.sqrt(gifts[gifts.length-1]);
-            Arrays.sort(gifts);
-            i--;
+        Queue<Long> q = new PriorityQueue<>(Collections.reverseOrder());
+        for(long i : gifts){
+            q.add(i);
         }
-        long ans = 0;
-        for (i = 0; i < gifts.length; i++) {
-            ans += gifts[i];
+        
+        while(k-->0){
+            long a = q.poll();
+            q.add((long)Math.floor(Math.sqrt(a)));
         }
-        return ans;
+
+        long s= 0;
+        while(!q.isEmpty()){
+            s += q.poll();
+        }
+        return s;
     }
 }
