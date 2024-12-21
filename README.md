@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [2554-minimum-total-distance-traveled](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Dynamic Programming
@@ -172,9 +175,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
