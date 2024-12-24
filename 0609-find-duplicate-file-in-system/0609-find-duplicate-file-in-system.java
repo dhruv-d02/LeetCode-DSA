@@ -12,12 +12,10 @@ class Solution {
             //br[0] -> path
             //br[i] -> Filename(content)
             for (int i = 1; i < br.length; i++) {
-                String[] conBreak = br[i].split("\\(");
-                String content = conBreak[1].substring(0, conBreak[1].length()-1);
-                if(map.get(content) == null){
-                    map.put(content, new ArrayList<>());
-                }
-                map.get(content).add(br[0] + "/" + conBreak[0]);
+                int conBreak = br[i].indexOf("(");
+                String content = br[i].substring(conBreak+1, br[i].length()-1);
+                map.putIfAbsent(content, new ArrayList<>());
+                map.get(content).add(br[0] + "/" + br[i].substring(0, conBreak));
             }
         }
         for (Map.Entry<String , List<String>> entry : map.entrySet()){
