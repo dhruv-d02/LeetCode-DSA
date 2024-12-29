@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1899-count-items-matching-a-rule](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1899-count-items-matching-a-rule](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
