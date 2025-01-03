@@ -8,6 +8,7 @@
  * }
  */
 public class Codec {
+    int currIndex = 0;
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         String ret = "";
@@ -26,22 +27,20 @@ public class Codec {
         return ret;
     }
 
-    // Decodes your encoded data to tree.
-    public TreeNode deserialize(String data) {
-        return makeTree(new StringBuilder(data));
-    }
-    public TreeNode makeTree(StringBuilder data) {
-        if(data.charAt(0) == 'n'){
-            data.delete(0, data.indexOf("/")+1);
+    public TreeNode makeTree(Queue<String> q){
+        String val = q.poll();
+        if(val != null && val.equals("n")){
             return null;
         }
-        TreeNode root = null;
-        String val = data.substring(0, data.indexOf("/"));
-        root = new TreeNode(Integer.parseInt(val));
-        data.delete(0, data.indexOf("/")+1);
-        root.left = makeTree(data);
-        root.right = makeTree(data);
+        TreeNode root = new TreeNode(Integer.parseInt(val));
+        root.left = makeTree(q);
+        root.right = makeTree(q);
         return root;
+    }
+
+    // Decodes your encoded data to tree.
+    public TreeNode deserialize(String data) {
+        return makeTree(new LinkedList<>(Arrays.asList(data.split("/"))));
     }
 }
 
