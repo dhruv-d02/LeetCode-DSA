@@ -11,20 +11,20 @@ public class Codec {
     int currIndex = 0;
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        String ret = "";
-        ret += Preorder(root, ret);
-        return ret;
+        StringBuilder ret = new StringBuilder();
+        return Preorder(root, ret);
+
     }
 
-    private String Preorder(TreeNode root, String ret) {
+    private String Preorder(TreeNode root, StringBuilder ret) {
         if(root == null){
-            ret += "n/";
-            return ret;
+            ret.append("n/");
+            return ret.toString();
         }
-        ret += root.val + "/";
-        ret = Preorder(root.left, ret);
-        ret = Preorder(root.right, ret);
-        return ret;
+        ret.append(root.val).append("/");
+        Preorder(root.left, ret);
+        Preorder(root.right, ret);
+        return ret.toString();
     }
 
     public TreeNode makeTree(Queue<String> q){
