@@ -1,26 +1,34 @@
 class Solution {
     public String shiftingLetters(String s, int[][] shifts) {
-        int n = s.length();
-        int[] shift = new int[n + 1];
+          int n = s.length();
+        int[] diff = new int[n + 1]; 
 
-        for (int[] shiftOp : shifts) {
-            int start = shiftOp[0], end = shiftOp[1], direction = shiftOp[2];
-            shift[start] += (direction == 1 ? 1 : -1);
-            if (end + 1 < n) shift[end + 1] -= (direction == 1 ? 1 : -1);
+      
+        for (int[] shift : shifts) {
+            if (shift[2] == 1) {
+                diff[shift[0]]++;
+                diff[shift[1] + 1]--;
+            } else {
+                diff[shift[0]]--;
+                diff[shift[1] + 1]++;
+            }
         }
 
-        int currentShift = 0;
-        for (int i = 0; i < n; ++i) {
-            currentShift += shift[i];
-            shift[i] = currentShift;
+  
+        for (int i = 1; i <= n; i++) {
+            diff[i] += diff[i - 1];
         }
 
-        StringBuilder result = new StringBuilder(s);
-        for (int i = 0; i < n; ++i) {
-            int netShift = (shift[i] % 26 + 26) % 26;
-            result.setCharAt(i, (char) ('a' + (s.charAt(i) - 'a' + netShift) % 26));
+        StringBuilder res = new StringBuilder();
+        for (int i = 0; i < n; i++) {
+            int count = diff[i] % 26;
+            if (count < 0)
+                count += 26;
+
+            char curr = (char) ((s.charAt(i) - 'a' + count) % 26 + 'a');
+            res.append(curr);
         }
 
-        return result.toString();
+        return res.toString();
     }
 }
