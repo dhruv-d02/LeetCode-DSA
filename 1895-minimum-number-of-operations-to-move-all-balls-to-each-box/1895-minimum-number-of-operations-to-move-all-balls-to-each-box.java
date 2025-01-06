@@ -3,6 +3,7 @@ class Solution {
         int[] ans = new int[boxes.length()];
         int sum = 0;
         int cnt = 0;
+        //prefix and suffix sum
         for(int i=boxes.length()-1; i>=0; i--){
             sum += cnt;
             ans[i] += sum;
