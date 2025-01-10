@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
