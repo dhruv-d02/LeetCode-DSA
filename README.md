@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2554-minimum-total-distance-traveled](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
 |  |
