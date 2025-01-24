@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0563-binary-tree-tilt) |
+| [0820-find-eventual-safe-states](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
