@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
