@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3486-count-the-number-of-good-nodes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3486-count-the-number-of-good-nodes) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
