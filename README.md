@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2434-design-a-number-container-system) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
+| [2434-design-a-number-container-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
+| [2434-design-a-number-container-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
 ## Matrix
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2434-design-a-number-container-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
