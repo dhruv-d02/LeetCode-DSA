@@ -10,13 +10,11 @@ class Solution {
         }
 
         long srt = k;
-        int[] at = arr.clone();
-        int[] bt = brr.clone();
-        Arrays.sort(at);
-        Arrays.sort(bt);
+        Arrays.sort(arr);
+        Arrays.sort(brr);
         for(int i=0; i<len; i++)
         {
-            srt+= Math.abs((long) at[i] - bt[i]);
+            srt+= Math.abs((long) arr[i] - brr[i]);
         }
 
         return Math.min(rawCost, srt);
