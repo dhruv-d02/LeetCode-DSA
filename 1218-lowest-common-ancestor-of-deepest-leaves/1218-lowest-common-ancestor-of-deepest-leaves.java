@@ -34,5 +34,3 @@ class Solution {
         return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
 }
-
-<img src="https://assets.leetcode.com/users/images/cc496d84-0690-4377-b8a3-f621f326df8f_1742786890.68028.png" width="400">
