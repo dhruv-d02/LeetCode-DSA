@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0284-peeking-iterator](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0284-peeking-iterator) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
