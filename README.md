@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Math
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
 | ------- |
