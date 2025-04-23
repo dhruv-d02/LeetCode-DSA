@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1500-count-largest-group) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1500-count-largest-group](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2107-find-unique-binary-string) |
