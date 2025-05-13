@@ -1,15 +1,42 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
-    private final int mod = 1_000_000_007;
+    int mod=1000000007;
     public int lengthAfterTransformations(String s, int t) {
-        int[] dp = new int[t + 26];
-        for (int i = 0; i < 26; i++) 
-            dp[i] = 1;
-        for (int i = 26; i < t + 26; i++)   
-            dp[i] = (dp[i - 26] + dp[i - 25]) % mod;
-            
-        int ans = 0;
-        for (char ch : s.toCharArray()) 
-            ans = (ans + dp[ch - 'a' + t]) % mod;
-        return ans;
+        if(t == 0)
+            return s.length();
+        long ans = 0;
+
+        int[] cnt = new int[26];
+
+        for(char c : s.toCharArray())
+        {
+            cnt[c-'a']++;
+        }
+
+        for(int i =0; i< t; i++)
+        {
+            int[] tempCnt = new int[26];
+            for(int j=0; j<26; j++)
+            {
+                if(j == 25)
+                {
+                    tempCnt[0] = (tempCnt[0] + cnt[25])%mod;
+                    tempCnt[1] = (tempCnt[1] + cnt[25])%mod;
+                }
+                else
+                {
+                    tempCnt[j+1] = (tempCnt[j+1] + cnt[j])%mod;
+                }
+            }
+            cnt = tempCnt;
+        }
+
+        for(int i : cnt)
+        {
+            ans = (ans + i)%mod;
+        }
+        return (int)ans%mod;
     }
 }
