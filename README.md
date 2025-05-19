@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
