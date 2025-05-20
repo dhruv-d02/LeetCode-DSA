@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
