@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
