@@ -26,38 +26,26 @@ class Solution {
         int queryUsed = 0;
         int queryPos = 0;
         for(int i=0; i<nums.length; i++){
-            while (!pastQueries.isEmpty() && pastQueries.peek() < i){
-                pastQueries.poll();
-            }
-            if(!pastQueries.isEmpty() && pastQueries.peek()>=i && nums[i] != 0){
-                nums[i] -= Math.min(nums[i], pastQueries.size());
-            }
-
-            boolean positionImpacted = false;
-            for(int j=queryPos; j<queries.length; j++){
-                if(queries[j][0]<=i){
-                    queriesImpacting.add(queries[j]);
-                    positionImpacted = true;
-                }else {
-                    break;
-                }
+            while (queryPos < queries.length && queries[queryPos][0] == i){
+                queriesImpacting.add(queries[queryPos]);
                 queryPos++;
             }
-            if(nums[i] == 0){
-                continue;
-            }
+            nums[i] -= pastQueries.size();
 
-            while (!queriesImpacting.isEmpty() && nums[i] != 0){
-                int[] q = queriesImpacting.poll();
-                if(!(q[1] >= i)){
-                    continue;
-                }
-                pastQueries.add(q[1]);
+            while (!queriesImpacting.isEmpty() && nums[i] > 0 && queriesImpacting.peek()[1] >= i){
+                int ending = queriesImpacting.peek()[1];
+                queriesImpacting.poll();
                 nums[i]--;
+                pastQueries.add(ending);
                 queryUsed++;
             }
-            if(nums[i] != 0)
+
+            if(nums[i] > 0)
                 return -1;
+
+            while (!pastQueries.isEmpty() && pastQueries.peek() <= i){
+                pastQueries.poll();
+            }
         }
         return queries.length - queryUsed >= 0 ? queries.length - queryUsed : -1;
 
