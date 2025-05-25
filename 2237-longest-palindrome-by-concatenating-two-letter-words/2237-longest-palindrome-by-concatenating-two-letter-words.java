@@ -1,40 +1,64 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public int longestPalindrome(String[] words) {
-        HashMap<String, Integer> map = new HashMap<>();
+        Map<String,Integer> map = new HashMap<>();
+        int longest = 0;
+        boolean oddPal = false;
 
-        for(String s : words){
-            map.put(s, map.getOrDefault(s, 0)+1);
+        for (String word : words) {
+            map.put(word, map.getOrDefault(word,0)+1);
         }
 
-        String pallindrome = "";
+         for (Map.Entry<String,Integer> entry : map.entrySet()) {
+            String key = entry.getKey();
+            int count = entry.getValue();
 
-        boolean singlePallindromeAdded = false;
-        for(Map.Entry<String, Integer> entry : map.entrySet()){
-            String word = entry.getKey();
-            String revWord = "" + word.charAt(1) + word.charAt(0);
-            if(map.get(word) == null || map.get(revWord) == null){
+            if (count == 0) {
                 continue;
             }
-            while (Math.min(map.get(word), map.get(revWord)) > 0){
-                if(word.charAt(0) == word.charAt(1) && map.get(word) == 1){
-                    if(singlePallindromeAdded){
-                        map.put(word, Math.min(map.get(word)-1, 0));
-                        continue;
-                    }
-                    pallindrome = pallindrome + word;
-                    singlePallindromeAdded = true;
-                    map.put(word, map.get(word) - 1);
+
+            if (isPal(key)) {
+                if (count%2 == 0) {
+                    longest+= count*2;
+                    map.put(key,0);
+                } else if (count>1) {
+                    int toAdd = (count-1)*2;
+                    longest+= toAdd;
+                    map.put(key,0);
+                    oddPal = true;
+                } else {
+                    oddPal = true;
                 }
-                else {
-                    pallindrome = word + pallindrome + revWord;
-                    map.put(word, Math.max(map.get(word) - 1, 0));
-                    map.put(revWord, Math.max(map.get(revWord) - 1, 0));
+            } else {
+                String reverted = revert(key);
+                if (map.containsKey(reverted) && map.get(reverted)>0) {
+                    int revertedCnt = map.get(reverted);
+                    int maxCommon = Math.min(count,revertedCnt);
+                    longest+=(maxCommon*4);
+                    map.put(key,count-maxCommon);
+                    map.put(reverted,revertedCnt-maxCommon);
                 }
             }
+
         }
-        return pallindrome.length();
+
+        if (oddPal) {
+            longest+=2;
+        }
+
+        return longest;
+    }
+
+    public boolean isPal(String s) {
+        return s.charAt(0) == s.charAt(1);
+    }
+
+    public String revert(String s) {
+        char[] c = s.toCharArray();
+        char[] c2 = new char[2];
+
+        c2[0] = c[1];
+        c2[1] = c[0];
+
+        return new String(c2);
     }
 }
