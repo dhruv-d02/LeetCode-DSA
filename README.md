@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3486-count-the-number-of-good-nodes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3486-count-the-number-of-good-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Trie
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3486-count-the-number-of-good-nodes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3486-count-the-number-of-good-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
