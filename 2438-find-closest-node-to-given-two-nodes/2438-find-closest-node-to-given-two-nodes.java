@@ -58,7 +58,6 @@ class Solution {
             }
             if(ans > Math.max(fromNode1[i], fromNode2[i])){
                 idx = i;
-                ans = Math.max(fromNode1[i], fromNode2[i]);
             }
         }
 
