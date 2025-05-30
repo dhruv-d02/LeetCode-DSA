@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Backtracking
 |  |
