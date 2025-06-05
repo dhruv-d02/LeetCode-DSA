@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
