@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2107-find-unique-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
