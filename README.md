@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2434-design-a-number-container-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2434-design-a-number-container-system) |
