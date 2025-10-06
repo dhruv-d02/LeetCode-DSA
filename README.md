@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0459-repeated-substring-pattern](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
