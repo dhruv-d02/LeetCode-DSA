@@ -1,3 +1,4 @@
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -15,38 +16,23 @@
  */
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        String sbroot = postTraversal(subRoot);
-        return check(root, sbroot) == 1 ? true : false;
+        if(root == null && subRoot == null) return true;
+        if(root == null || subRoot == null) return false; 
+
+        if(root.val == subRoot.val) {
+            boolean isFullMatch =  check(root, subRoot);
+            if(isFullMatch) return true;
+        }
+
+        return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 
-    private int check(TreeNode root, String sbroot) {
-        if(root == null){
-            return 1;
-        }
-        String r = postTraversal(root);
-        if(r.equals(sbroot)){
-            return 1;
-        }
-        if(root.left != null){
-            if(check(root.left, sbroot) == 1)
-                return 1;
-        }
-        if(root.right != null){
-            if(check(root.right, sbroot) == 1)
-                return 1;
-        }
-        return -1;
+    public boolean check(TreeNode r1, TreeNode r2) {
+        if(r1 == null && r2 == null) return true;
+        if(r1 == null || r2 == null) return false; 
+
+        if(r1.val != r2.val) return false; 
+
+        return check(r1.left, r2.left) && check(r1.right, r2.right);
     }
-
-    private String postTraversal(TreeNode subRoot) {
-        if(subRoot == null){
-            return "X";
-        }
-        String ans = postTraversal(subRoot.left);
-        ans += postTraversal(subRoot.right);
-        ans += subRoot.val;
-        return ans;
-    }
-
-
 }
