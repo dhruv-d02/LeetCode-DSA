@@ -1,48 +1,44 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 class Solution {
     public int countValidSelections(int[] nums) {
-        int validPos = 0;
-        for(int i=0; i<nums.length; i++){
-            int[] temp = nums;
-            if(nums[i] == 0){
-                if(valid(Arrays.copyOf(nums, nums.length), i, true)){
-                    validPos++;
+        int counter=0;
+        for(int i=0; i<nums.length;i++)
+        {
+            if(nums[i]==0)
+            {
+                //add all elements to the left and right, if those values are equal, increment counter
+                int dif = diff(i, nums);
+                //works for both directions
+                if(dif==0)
+                {
+                    counter+=2;
                 }
-                if(valid(Arrays.copyOf(nums, nums.length), i, false)){
-                    validPos++;
+                //Works for only 1 direction
+                else if(dif==1)
+                {
+                    counter+=1;
                 }
             }
+            
         }
-        return validPos;
+        return counter;
     }
-
-    private boolean valid(int[] nums, int curr, boolean toRight) {
-        for (int i=curr; i<nums.length && i>=0;){
-            int val = nums[i];
-            if(val == 0){
-                if(toRight){
-                    i++;
-                }else{
-                    i--;
-                }
-                continue;
-            }
-            nums[i]--;
-            toRight = !toRight;
-            if(toRight){
-                i++;
-            }else{
-                i--;
-            }
+    
+    /**
+    Sum up the left side and right side of an array except the index.
+    and get the difference.
+     */
+    public int diff(int index, int[] nums)
+    {
+        int left=0;
+        int right=0;
+        for(int i=0; i<index; i++)
+        {
+            left+=nums[i];
         }
-        for(int n : nums){
-            if(n != 0){
-                return false;
-            }
+        for(int i=index+1; i<nums.length; ++i)
+        {
+            right+=nums[i];
         }
-        return true;
+        return Math.abs(left-right);
     }
 }
