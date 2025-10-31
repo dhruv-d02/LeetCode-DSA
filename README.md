@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0561-array-partition) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
