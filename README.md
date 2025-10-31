@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Combinatorics
