@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
