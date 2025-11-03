@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0284-peeking-iterator) |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [2868-continuous-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -530,10 +533,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
