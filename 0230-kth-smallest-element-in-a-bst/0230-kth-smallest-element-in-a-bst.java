@@ -1,6 +1,4 @@
-import java.util.LinkedList;
-import java.util.PriorityQueue;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * Definition for a binary tree node.
@@ -18,23 +16,19 @@ import java.util.Queue;
  * }
  */
 class Solution {
+    List<Integer> list;
     public int kthSmallest(TreeNode root, int k) {
-        Queue<TreeNode> q = new LinkedList<>();
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        q.add(root);
-        while (!q.isEmpty()){
-            int levelSize = q.size();
-            for(int i=0; i<levelSize; i++){
-                TreeNode curr = q.poll();
-                pq.offer(curr.val);
-                if(curr.left != null) q.add(curr.left);
-                if(curr.right != null) q.add(curr.right);
-                
-            }
+        list = new ArrayList<>();
+        inorder(root);
+        return list.get(k-1);
+    }
+
+    private void inorder(TreeNode root) {
+        if(root == null){
+            return;
         }
-        for(int i=0; i<k-1; i++){
-            pq.poll();
-        }
-        return pq.poll();
+        inorder(root.left);
+        list.add(root.val);
+        inorder(root.right);
     }
 }
