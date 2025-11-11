@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1127-last-stone-weight) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1500-count-largest-group) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -809,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -817,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -877,4 +883,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
