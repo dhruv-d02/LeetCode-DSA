@@ -1,9 +1,9 @@
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
+       PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
             @Override
             public int compare(Integer i, Integer j) {
-                return -(points[i][0]*points[i][0] + points[i][1]*points[i][1]) + (points[j][0]*points[j][0] + points[j][1]*points[j][1]);
+                return (points[j][0]*points[j][0] + points[j][1]*points[j][1]) - (points[i][0]*points[i][0] + points[i][1]*points[i][1]);
             }
         });
         for(int i=0; i<points.length; i++){
