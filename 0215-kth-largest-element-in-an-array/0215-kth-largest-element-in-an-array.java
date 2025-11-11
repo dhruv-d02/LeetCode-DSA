@@ -5,20 +5,14 @@ import java.util.TreeMap;
 
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        TreeMap<Integer, Integer> treeMap = new TreeMap<>(Collections.reverseOrder());
-        for(int num : nums){
-            treeMap.put(num, treeMap.getOrDefault(num, 0) + 1);
+        PriorityQueue<Integer>pq=new PriorityQueue<>((a,b)->b-a);
+        for(int i=0;i<nums.length;i++){
+            pq.add(nums[i]);
         }
-
-        while (k > 0){
-            Map.Entry<Integer, Integer> entry = treeMap.firstEntry();
-            if(k > entry.getValue()){
-                k -= entry.getValue();
-                treeMap.remove(entry.getKey());
-            }else{
-                break;
-            }
+        while(k > 1){
+            pq.poll();
+            k--;
         }
-        return treeMap.firstEntry().getKey();
+        return pq.poll();
     }
 }
