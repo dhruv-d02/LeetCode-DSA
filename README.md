@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
