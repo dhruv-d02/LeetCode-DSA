@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3321-type-of-triangle](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
