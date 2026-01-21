@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3321-type-of-triangle](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3321-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3360-stone-removal-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 | [3447-clear-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
