@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
+| [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0739-daily-temperatures) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
@@ -868,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Combinatorics
 |  |
