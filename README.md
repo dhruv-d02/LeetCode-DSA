@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3379-transformed-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3379-transformed-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3519-find-the-number-of-winning-players) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3360-stone-removal-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3360-stone-removal-game) |
+| [3379-transformed-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
