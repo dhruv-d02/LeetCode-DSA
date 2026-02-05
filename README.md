@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3639-zero-array-transformation-i) |
+| [3640-trionic-array-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3640-trionic-array-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3640-trionic-array-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3640-trionic-array-ii) |
 ## Recursion
 |  |
 | ------- |
