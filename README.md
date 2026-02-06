@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3640-trionic-array-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Hash Table
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
