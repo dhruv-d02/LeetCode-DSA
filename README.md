@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3830-find-closest-person) |
 | [3994-find-the-least-frequent-digit](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3994-find-the-least-frequent-digit) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Iterator
 |  |
