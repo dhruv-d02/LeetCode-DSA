@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0427-construct-quad-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0427-construct-quad-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0563-binary-tree-tilt) |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
