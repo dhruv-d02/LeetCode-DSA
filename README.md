@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3994-find-the-least-frequent-digit](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3994-find-the-least-frequent-digit) |
 ## Counting
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Iterator
@@ -878,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bucket Sort
 |  |
 | ------- |
