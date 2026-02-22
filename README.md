@@ -837,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0868-binary-gap](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0868-binary-gap) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
