@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
+| [0696-count-binary-substrings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1023-time-based-key-value-store) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Combinatorics
 |  |
