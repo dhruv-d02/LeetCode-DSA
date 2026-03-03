@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0799-champagne-tower) |
 | [1025-minimum-cost-for-tickets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
+| [1143-longest-common-subsequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
