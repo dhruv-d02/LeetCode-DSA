@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
