@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3379-transformed-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3379-transformed-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3519-find-the-number-of-winning-players) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Design
 |  |
 | ------- |
