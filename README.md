@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
+| [1529-minimum-suffix-flips](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1529-minimum-suffix-flips) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1529-minimum-suffix-flips](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
