@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0883-car-fleet) |
+| [0896-monotonic-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0896-monotonic-array) |
 | [0907-koko-eating-bananas](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
