@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2509-minimize-xor) |
