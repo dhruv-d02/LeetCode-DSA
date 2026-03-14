@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1472-increasing-decreasing-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1472-increasing-decreasing-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1980-find-unique-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
