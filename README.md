@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Combinatorics
