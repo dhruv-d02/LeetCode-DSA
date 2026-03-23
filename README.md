@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
