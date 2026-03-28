@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
+| [0633-sum-of-square-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
