@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2755-extra-characters-in-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3194-find-words-containing-character) |
