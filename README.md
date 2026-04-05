@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2107-find-unique-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2107-find-unique-binary-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2751-robot-collisions) |
