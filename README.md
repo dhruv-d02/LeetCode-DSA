@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0792-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0883-car-fleet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0883-car-fleet) |
 | [0890-find-and-replace-pattern](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0896-monotonic-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0609-find-duplicate-file-in-system) |
+| [0874-walking-robot-simulation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0890-find-and-replace-pattern](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0952-word-subsets) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
