@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
