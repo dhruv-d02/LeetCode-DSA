@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3379-transformed-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3488-closest-equal-element-queries) |
 | [3519-find-the-number-of-winning-players](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3519-find-the-number-of-winning-players) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3488-closest-equal-element-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3488-closest-equal-element-queries) |
 | [3519-find-the-number-of-winning-players](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3519-find-the-number-of-winning-players) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3488-closest-equal-element-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Design
