@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1023-time-based-key-value-store) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
