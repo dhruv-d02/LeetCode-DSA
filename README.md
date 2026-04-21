@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
