@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0284-peeking-iterator) |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0427-construct-quad-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0799-champagne-tower](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0799-champagne-tower) |
