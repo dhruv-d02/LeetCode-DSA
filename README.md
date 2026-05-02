@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0788-rotated-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0788-rotated-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0799-champagne-tower) |
 | [1025-minimum-cost-for-tickets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
