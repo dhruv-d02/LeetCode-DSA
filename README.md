@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3639-zero-array-transformation-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3692-majority-frequency-characters](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3692-majority-frequency-characters) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -1170,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
