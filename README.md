@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2838-sum-of-matrix-after-queries) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2755-extra-characters-in-a-string) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
