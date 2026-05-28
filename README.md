@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
