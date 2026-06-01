@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-minimum-moves-to-convert-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
