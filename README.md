@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2615-sum-of-distances](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2465-shifting-letters-ii) |
+| [2574-left-and-right-sum-differences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2615-sum-of-distances) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2906-construct-product-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2906-construct-product-matrix) |
