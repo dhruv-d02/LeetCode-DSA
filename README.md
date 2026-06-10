@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Ordered Set
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
 | ------- |
