@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1472-increasing-decreasing-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1472-increasing-decreasing-string) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1472-increasing-decreasing-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1472-increasing-decreasing-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
