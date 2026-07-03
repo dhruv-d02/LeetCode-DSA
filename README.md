@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3620-network-recovery-pathways](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3640-trionic-array-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3640-trionic-array-ii) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3620-network-recovery-pathways](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3647-zero-array-transformation-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
@@ -1214,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1221,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3620-network-recovery-pathways](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Data Stream
 |  |
 | ------- |
@@ -1375,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
