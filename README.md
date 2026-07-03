@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1622-fancy-sequence) |
+| [1840-maximum-building-height](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
