@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1127-last-stone-weight) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1293-three-consecutive-odds) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1306-jump-game-iii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1288-remove-covered-intervals](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1340-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
