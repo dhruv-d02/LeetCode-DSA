@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1293-three-consecutive-odds) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
+| [1301-number-of-paths-with-max-score](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
