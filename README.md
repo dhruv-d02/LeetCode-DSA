@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1340-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1472-increasing-decreasing-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1472-increasing-decreasing-string) |
