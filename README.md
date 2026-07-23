@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3519-find-the-number-of-winning-players) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3360-stone-removal-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
