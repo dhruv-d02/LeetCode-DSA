@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0427-construct-quad-tree](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
+| [0486-predict-the-winner](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0788-rotated-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0788-rotated-digits) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -1399,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 ## Concurrency
 |  |
 | ------- |
