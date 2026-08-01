@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2838-sum-of-matrix-after-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2838-sum-of-matrix-after-queries) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2833-furthest-point-from-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
