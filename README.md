@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1127-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1252,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1431,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 ## Concurrency
 |  |
@@ -1520,9 +1525,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
