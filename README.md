@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1330,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
