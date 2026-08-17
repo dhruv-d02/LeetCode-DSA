@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1580-shuffle-the-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1459,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 ## Concurrency
 |  |
