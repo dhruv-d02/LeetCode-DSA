@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -1295,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1477,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 ## Concurrency
 |  |
@@ -1570,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1577,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dhruv-d02/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
